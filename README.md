@@ -1,7 +1,6 @@
 
-# Asher Hazel Ibarra González
+# Hola, yo soy Asher Ibarra
 
-Data Analyst Jr
 
 
 ## 🚀 Sobre mi
