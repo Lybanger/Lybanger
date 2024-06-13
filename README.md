@@ -11,7 +11,7 @@ Durante mi trayectoria, he desarrollado habilidades sólidas en programación co
 
 
 ## 🛠 Skills
-Python, Power BI, SQL, Excel, Git
+Python, Web Scraping, Power BI, SQL, Excel, Git
 
 
 ## 👩‍💻 Algunos proyectos BI
