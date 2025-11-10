@@ -4,14 +4,16 @@
 
 
 ## 🚀 Sobre mi
-Estudiante de Ingeniería en Diseño de Software y Redes con 2 años de experiencia en análisis de datos, especializado en Power BI y Python. Busco aplicar mis habilidades técnicas y blandas en un entorno colaborativo para contribuir al éxito del equipo y seguir aprendiendo en un entorno desafiante.
+¡Hola! Soy un entusiasta de la automatización y el desarrollo orientado a datos, con experiencia en hacer que los procesos sean más eficientes, escalables y sostenibles. Me gusta diseñar soluciones que realmente generen impacto, ya sea optimizando flujos, migrando tecnologías o reduciendo costos mediante buenas prácticas de desarrollo.
 
-Durante mi trayectoria, he desarrollado habilidades sólidas en programación con Python, incluyendo librerías como Selenium, Pandas y más. También tengo experiencia en SQL, Power BI y Microsoft Excel. Siempre estoy dispuesto a aprender y enfrentar nuevos desafíos, y prospero en entornos dinámicos y colaborativos.
+Últimamente he estado explorando cómo la IA generativa (ChatGPT, Gemini, Copilot, etc.) puede potenciar la productividad en el desarrollo y el análisis de datos, aplicando técnicas de Prompt Engineering para integrar estas herramientas en el día a día del trabajo técnico.
+
+Siempre estoy aprendiendo algo nuevo, experimentando con ideas y compartiendo proyectos que simplifiquen la vida a los equipos y a los datos.
 
 
 
 ## 🛠 Skills
-Python, Web Scraping, Power BI, SQL, Excel, Git
+ Python, Automatización, Power Automate, IA generativa, Prompt Engineering, SQL, PostgreSQL, Power BI, Java (Integración), Git, Jira
 
 
 ## 👩‍💻 Algunos proyectos BI
